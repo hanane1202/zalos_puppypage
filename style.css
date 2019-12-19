@@ -15,8 +15,12 @@ header{
 
 }
 
+#hoveds{
+    color:white;
+}
+
 #logo{
-    text-align: left;
+    float: left;
 }
 
 a{
@@ -24,4 +28,14 @@ a{
     font-size: 15px;
     margin: 20px;
     
+}
+
+#hovedinfo{
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#lskål{
+    float: right;
 }
