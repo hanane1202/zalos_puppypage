@@ -7,12 +7,16 @@ body{
 header{
     background-color: #234F1E;
     color: white;
-    text-align: center;
+    text-align: left;
     font-size: 15px;
     width: 100%;
     display: block;
     padding-bottom: 15px;
 
+}
+
+#hjemmeside{
+    text-align: center;
 }
 
 #hoveds{
@@ -38,16 +42,25 @@ a{
 
 #lskål{
     float: right;
+    width: 80px;
 }
 
 #hbur{
     float: right;
+    width: 100px;
 }
 
 #hogb{
     float: right;
+    width: 100px;
 }
 
 #tleke{
     float: right;
+    width: 100px;
+}
+
+#stell{
+    float: right;
+    width: 200px;
 }
