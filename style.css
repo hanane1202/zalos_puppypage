@@ -64,3 +64,8 @@ a{
     float: right;
     width: 200px;
 }
+
+h3{
+    fontweight: bolder;
+    color:  #234F1E;
+}
